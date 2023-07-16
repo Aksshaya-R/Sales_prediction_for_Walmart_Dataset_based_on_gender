@@ -5,7 +5,8 @@ To predict sales, different data mining techniques were undertaken such as:
 2. Data Pre-processing 
 3. Outlier detection 
 4. Correlation 
-5. Classification.
+5. Classification
+   
 The training set consists of 80% of the dataset and is used to train these models with labels.
 The test set consists of 20% of the dataset and is used to test the models by predicting the labels.
 The model was able to compare the performance of various machine learning classifiers and detect and predict sales with a maximum accuracy of 93% using the available dataset. 
